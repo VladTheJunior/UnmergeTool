@@ -18,7 +18,7 @@
 **Developer:** VladTheJunior<br />
 **Current version:** 0.0.1<br />
 
-[Download Portable (.ZIP archive)]()<br />
+[Download Portable (.ZIP archive)](https://disk.yandex.ru/d/F_fBmsvPkCFK_Q)<br />
 
 *__Note__: Portable version may require .NET6 desktop runtime: https://dotnet.microsoft.com/en-us/download/dotnet/6.0*
 
