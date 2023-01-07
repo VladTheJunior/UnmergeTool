@@ -40,6 +40,9 @@
 
 где subtype это тип контрольной платы.
 
+![image](https://user-images.githubusercontent.com/30210308/211142104-faf7643b-e499-4e59-b1ab-b5de9e6c0eb0.png)
+
+
 
 
 
